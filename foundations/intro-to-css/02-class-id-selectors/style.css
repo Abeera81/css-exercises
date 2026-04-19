@@ -1,1 +1,16 @@
-/* Add CSS Styling */
+.one{
+    background-color: rgb(220, 116, 154);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#first{
+    color: blue;
+    font-size: 36px;
+}
+.cool{
+    font-size: 24px;
+}
+#another{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
